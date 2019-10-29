@@ -1,11 +1,7 @@
 #lang racket
 
-(provide coaches
-         alice bob)
-
 (require stories)
 
-(define-list 
+(define/provide-list 
   coaches
-  (define bob          (character "Bob"))
-  (define alice        (character "Cool Alice")))
+  (define bruce          (character "Bruce")))

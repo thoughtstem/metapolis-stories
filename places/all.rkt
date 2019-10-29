@@ -4,9 +4,13 @@
 
 (require 
   "./metapolis.rkt"
+  "./misc.rkt"
+  "./schools.rkt" 
   "./houses.rkt")
 
 (define all
   (flatten
     (list metapolis
-          houses)))
+          schools
+          houses
+          misc)))

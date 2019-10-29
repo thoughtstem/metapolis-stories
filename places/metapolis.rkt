@@ -2,9 +2,9 @@
 
 (provide metapolis)
 
-(require stories)
+(require stories
+         "./geography.rkt")
 
 (define metapolis     
   (place "metapolis"     
-         (posn 0 0)
-         (posn 100 100)))
+         #:position metapolis-position))
