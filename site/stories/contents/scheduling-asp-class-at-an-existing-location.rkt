@@ -1,10 +1,6 @@
-#lang at-exp racket
+#lang at-exp metapolis-stories/lang/story
 
 (provide content)
-
-(require (except-in website/bootstrap time)
-         stories
-         "../../characters.rkt")
 
 (define sandy @link-to-character[characters:sandy])
 (define kimberly @link-to-character[characters:kimberly])

@@ -6,5 +6,5 @@
          stories)
 
 (define/provide-list
-  coaches
+  misc
   )

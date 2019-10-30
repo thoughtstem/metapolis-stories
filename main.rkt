@@ -2,12 +2,11 @@
 
 (require stories
          (except-in website/bootstrap time)
-         "./places.rkt"
-         "./characters.rkt"
-         "./times.rkt"
-         "./stories.rkt"
-         (only-in gregor moment<?)
-         )
+         "./site/places.rkt"
+         "./site/characters.rkt"
+         "./site/times.rkt"
+         "./site/stories.rkt"
+         (only-in gregor moment<?))
 
 
 (render
