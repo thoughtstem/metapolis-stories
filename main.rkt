@@ -27,3 +27,12 @@
     #:times      (sort times:all #:key time-start moment<?)
     (sort stories:all #:key story-name string<?))
   #:to "out")
+
+(displayln "*******")
+(displayln "SUCCESS")
+(displayln "*******")
+
+(displayln "Wrote the stories to out/")
+(displayln "If you aren't running a preview server already:")
+(displayln "  cd out/")
+(displayln "  raco website-preview")

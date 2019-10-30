@@ -1,12 +1,21 @@
 metapolis-stories
 =================
 
-Recommended dev proces (after cloning the repo)
+Recommended installation:
+
+```
+git clone git@github.com:thoughtstem/metapolis-stories.git
+raco pkg install metapolis-stories/
+```
+
+Recommended dev proccess:
 
 ```
 cd metapolis-stories 
 racket main.rkt
 ```
+
+That writes the current story corpus to `out/`.  
 
 In another terminal
 
