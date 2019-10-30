@@ -7,4 +7,6 @@
 
 (define/provide-list
   tech-coordinators
+  (define jack
+    (story-from "./tech-coordinators/jack.rkt"))
   )

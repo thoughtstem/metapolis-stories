@@ -6,8 +6,19 @@
          "./site/characters.rkt"
          "./site/times.rkt"
          "./site/stories.rkt"
-         (only-in gregor moment<?))
+         (only-in gregor moment<? ~t))
 
+(time->link-content
+  (lambda (t)
+    (list
+      (span
+        (~t (time-start t) "E, MMMM d, y h:mm a") 
+        "-"
+        (~t (time-end t) "h:mm a"))
+
+      (when (not (string=? "" (time-name t)))
+        (span
+          " (" (time-name t) ")")))))
 
 (render
   (stories->site 

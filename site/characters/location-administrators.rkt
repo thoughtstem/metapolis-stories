@@ -4,4 +4,5 @@
 
 (define/provide-list 
   location-administrators
+  (define lawrence          (character "Johnny Lawrence")) 
   (define kimberly          (character "Kimberly")))
