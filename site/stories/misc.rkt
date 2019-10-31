@@ -5,6 +5,7 @@
          "../times.rkt"
          stories)
 
-(define/provide-list
-  misc
-  )
+(defines-from-directory "./misc"
+                        #:wrap-each   path->story
+                        #:all-as-list misc)
+
