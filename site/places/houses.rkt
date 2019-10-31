@@ -5,8 +5,5 @@
 
 (define/provide-list 
   houses 
-  (define jacks-house   (place "Jack's House" 
-                               #:position jacks-house-position))
-  (define johns-house   (place "John's House" 
-                               #:position johns-house-position
-                               #:data (file->content "./houses/john.rkt"))))
+  (define jacks-house   (place-from "./houses/jack.rkt"))
+  (define johns-house   (place-from "./houses/john.rkt")))

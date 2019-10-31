@@ -1,11 +1,9 @@
-#lang at-exp racket
+#lang at-exp metapolis-stories/lang/place
 
-(provide content)
+(define name "John's House")
+(define position johns-house-position)
 
-(require website/bootstrap)
-
-(define content
-  @div{
-    @p{This is the house where John grew up.} 
-    @p{It is boring, and it is gray.  But it is home.}
-  })
+@div{
+@p{This is the house where John grew up.} 
+@p{It is boring, and it is gray.  But it is home.}
+} 

@@ -6,5 +6,4 @@
          "./geography.rkt")
 
 (define metapolis     
-  (place "metapolis"     
-         #:position metapolis-position))
+  (place-from "./misc/metapolis.rkt"))

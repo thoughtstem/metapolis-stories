@@ -5,4 +5,5 @@
 (define/provide-list 
   customer-service-reps
   (define nina
-    (character "Nina")))
+    (character-from 
+      "./customer-service-reps/nina.rkt")))

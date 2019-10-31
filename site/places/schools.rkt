@@ -6,12 +6,12 @@
 (define/provide-list 
   schools 
   (define babbage-university
-    (place "Babbage University"
-           #:position babbage-university-position))
+    (place-from 
+      "./schools/babbage-university.rkt"))
   (define pascal-elementary   
-    (place "Pascal Elementary" 
-           #:position pascal-elementary-position)) 
+    (place-from 
+      "./schools/pascal-elementary.rkt"))
   (define lovelace-elementary   
-    (place "Lovelace Elementary" 
-           #:position lovelace-elementary-position)))
+    (place-from 
+      "./schools/lovelace-elementary.rkt")))
 

@@ -5,5 +5,5 @@
 (define/provide-list 
   hq-staff
   (define sandy 
-    (character "Sandy"
-               #:data (file->content "./bios/sandy.rkt"))))
+    (character-from
+      "./hq-staff/sandy.rkt")))

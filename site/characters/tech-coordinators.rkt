@@ -5,4 +5,7 @@
 (define/provide-list 
   tech-coordinators
   (define jack
-    (character "Jack")))
+    (character-from "./tech-coordinators/jack.rkt"))
+
+  (define john
+    (character-from "./tech-coordinators/john.rkt")))

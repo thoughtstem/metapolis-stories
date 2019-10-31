@@ -4,4 +4,5 @@
 
 (define/provide-list 
   coaches
-  (define bruce          (character "Bruce")))
+  (define bruce          
+    (character-from "./coaches/bruce.rkt")))
