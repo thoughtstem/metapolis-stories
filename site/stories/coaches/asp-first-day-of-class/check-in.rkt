@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "The Checkin...")
+(define title         "The Check-In")
 (define place         places:lovelace-elementary)
 (define characters    (list characters:bruce))
 (define time          (unnamed-time 
@@ -9,13 +9,13 @@
 (define links   '())
 
 @paras{
-Thursday, March 25th
+@heading{Thursday, March 25th}
 Today is the first day of class at Lovelace Elementary's Coding After School Program: Spring session for K-2nd graders. More importantly, it is Bruce's very first class ever! Bruce received an email a couple days ago with a bunch of information about what to do and expect at this location -- when and where to pick up equipment, where to park, etc.
 
-1:20pm -- 40 minutes until class start time
+@heading{1:20pm -- 40 minutes until class start time}
 Bruce parks in the visitor spots of the school lot. He knows he is early, so takes an extra minute to relax before getting his equipment and heading into the office.
 
-1:30pm -- 30 minutes until class start time
+@heading{1:30pm -- 30 minutes until class start time}
 Bruce arrives in the the school's office, sending a quick Slack message update to the Lovelace channel so his monitor knows he got there okay.
 
 The office staff look pretty busy; two of the three people are on phones and the third is talking to a parent. Bruce waits patiently, until one of the three staff frees up, then introduces himself:
