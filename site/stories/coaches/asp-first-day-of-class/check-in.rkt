@@ -9,7 +9,8 @@
 (define links   '())
 
 @paras{
-Thursday, March 25th
+
+@heading{Thursday, March 25th} 
 Today is the first day of class at Lovelace Elementary's Coding After School Program: Spring session for K-2nd graders. More importantly, it is Bruce's very first class ever! Bruce received an email a couple days ago with a bunch of information about what to do and expect at this location -- when and where to pick up equipment, where to park, etc.
 
 1:20pm -- 40 minutes until class start time
