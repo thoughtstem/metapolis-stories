@@ -6,7 +6,8 @@
 (define time          times:new-years-day-2020)
 (define links         (list 
                         (story-from "./jack/first-shipment.rkt")
-                        (story-from "./jack/equipment-setup.rkt")))
+                        (story-from "./jack/equipment-setup.rkt")
+                        (story-from "./jack/tc-subbing-experience.rkt")))
 
 
 @paras{
@@ -18,5 +19,5 @@ On subsequent days he continues to receive several other shipments, although the
 
 It has been two weeks after being hired, today Jack will pack the equipment for the first time: Day Schedule - Packing for one location
 
-A month has passed since the class at the Turing Rec Center, last night Ruby messaged HQ that she wasn't feeling too well and probably had food poisoning. Jack receives an email informing him, that there isn't another coach available for today's class and he's needed to teach: TC Subbing
+A month has passed since the class at the Turing Rec Center, last night Ruby messaged HQ that she wasn't feeling too well and probably had food poisoning. Jack receives an email informing him, that there isn't another coach available for today's class and he's needed to teach: @(link-to-story (third links))
 }

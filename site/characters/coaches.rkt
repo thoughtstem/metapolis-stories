@@ -4,4 +4,5 @@
 
 (define/provide-list 
   coaches
-  (define bruce          (character "Bruce")))
+  (define bruce          (character "Bruce"))
+  (define ruby           (character "Ruby")))
