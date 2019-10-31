@@ -3,5 +3,5 @@
 (define name "Ruby")
 
 @paras{
-  Ruby is not a language.
+  Ruby is not a language she is a person.
 }

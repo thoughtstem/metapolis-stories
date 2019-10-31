@@ -3,7 +3,8 @@
 (define title         "ASP - First Day of Class")
 (define place         places:lovelace-elementary)
 (define characters    (list characters:bruce))
-(define time          times:new-years-day-2020)
+(define time          (unnamed-time 
+                        (moment 2021 3 25)))
 (define links   (list 
                   (story-from "asp-first-day-of-class/check-in.rkt")
                   (story-from "asp-first-day-of-class/preclass.rkt") 
@@ -11,6 +12,6 @@
                   (story-from "asp-first-day-of-class/student-dismissal.rkt")))
 
 @paras{
-This is Bruce's first time at this location, however Meta Coders has been here before (Ruby taught here last session!)
-He is nervous.  
+
+       This is Bruce's very first class! MetaCoders has been at this location before
 }
