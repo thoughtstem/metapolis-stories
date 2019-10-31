@@ -105,7 +105,7 @@
     (list
       (find-on-map 'A)
       (find-on-map 'a)))
-
+  #;
   (define kick-butt-martial-arts-position
     (list
       (find-on-map 'K)
