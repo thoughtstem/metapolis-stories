@@ -1,2 +1,2 @@
 #lang reprovide
-(prefix-in stories: (glob-in "./stories/*"))
+(prefix-in stories: (glob-in "./stories/*.rkt"))

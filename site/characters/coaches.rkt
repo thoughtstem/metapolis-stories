@@ -2,10 +2,7 @@
 
 (require stories)
 
-(define/provide-list 
-  coaches
-  (define bruce          
-    (character-from "./coaches/bruce.rkt"))
+(defines-from-directory "./coaches"
+                        #:wrap-each   path->character
+                        #:all-as-list coaches)
 
-  (define ruby          
-    (character-from "./coaches/ruby.rkt")))

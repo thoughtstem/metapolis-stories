@@ -2,7 +2,6 @@
 
 (require stories)
 
-(define/provide-list 
-  students
-  (define aurelia-todd
-    (character-from "./students/aurelia-todd.rkt")))
+(defines-from-directory "./students"
+                        #:wrap-each   path->character
+                        #:all-as-list students)

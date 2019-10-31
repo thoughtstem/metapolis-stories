@@ -3,9 +3,6 @@
 (require stories
          "./geography.rkt")
 
-(define/provide-list 
-  misc
-  (define hq
-    (place-from "./misc/hq.rkt"))
-  (define kick-butt-martial-arts
-    (place-from "./misc/kick-butt-martial-arts.rkt")))
+(defines-from-directory "./misc"
+                        #:wrap-each   path->place
+                        #:all-as-list misc)

@@ -5,6 +5,7 @@
          "../times.rkt"
          stories)
 
-(define/provide-list
-  customers
-  )
+(defines-from-directory "./customers"
+                        #:wrap-each   path->story
+                        #:all-as-list customers)
+

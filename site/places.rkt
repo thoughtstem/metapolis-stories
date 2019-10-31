@@ -1,2 +1,2 @@
 #lang reprovide
-(prefix-in places: (glob-in "./places/*"))
+(prefix-in places: (glob-in "./places/*.rkt"))

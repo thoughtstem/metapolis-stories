@@ -5,8 +5,7 @@
          "../times.rkt"
          stories)
 
-(define/provide-list
-  tech-coordinators
-  (define jack
-    (story-from "./tech-coordinators/jack.rkt"))
-  )
+(defines-from-directory "./tech-coordinators"
+                        #:wrap-each   path->story
+                        #:all-as-list tech-coordinators) 
+

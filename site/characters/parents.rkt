@@ -2,7 +2,6 @@
 
 (require stories)
 
-(define/provide-list 
-  parents
-  (define molly-todd
-    (character-from "./parents/molly-todd.rkt")))
+(defines-from-directory "./parents"
+                        #:wrap-each   path->character
+                        #:all-as-list parents)

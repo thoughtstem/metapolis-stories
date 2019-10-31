@@ -5,11 +5,7 @@
          "../times.rkt"
          stories)
 
-(define/provide-list
-  location-administrators
-  (define kick-butt
-    (story-from
-      "./location-administrators/kick-butt.rkt"))
-  (define scheduling-asp-classes-story   
-    (story-from
-      "./location-administrators/scheduling-asp-class-at-an-existing-location.rkt")))
+(defines-from-directory "./location-administrators"
+                        #:wrap-each   path->story
+                        #:all-as-list location-administrators)
+
