@@ -2,8 +2,6 @@
 
 (require stories)
 
-(define/provide-list 
-  customer-service-reps
-  (define nina
-    (character-from 
-      "./customer-service-reps/nina.rkt")))
+(defines-from-directory "./customer-service-reps"
+                        #:wrap-each   path->character
+                        #:all-as-list customer-service-reps)

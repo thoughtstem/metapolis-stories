@@ -3,7 +3,6 @@
 (provide all)
 
 (require 
-  "./metapolis.rkt"
   "./misc.rkt"
   "./schools.rkt" 
   "./houses.rkt")

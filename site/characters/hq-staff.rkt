@@ -2,8 +2,6 @@
 
 (require stories)
 
-(define/provide-list 
-  hq-staff
-  (define sandy 
-    (character-from
-      "./hq-staff/sandy.rkt")))
+(defines-from-directory "./hq-staff"
+                        #:wrap-each   path->character
+                        #:all-as-list hq-staff)
