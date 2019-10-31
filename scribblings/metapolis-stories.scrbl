@@ -7,4 +7,5 @@
 
 @defmodule[metapolis-stories]
 
-Package Description Here
+@(require metapolis-stories)
+@;(displayln (module->exports 'metapolis-stories))

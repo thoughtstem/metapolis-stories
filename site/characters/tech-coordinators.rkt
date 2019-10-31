@@ -4,6 +4,9 @@
 
 (define/provide-list 
   tech-coordinators
-  (define jack  (character "Jack"))
-  (define kate  (character "Kate"))
-  (define john  (character "John")))
+  (define jack
+    (character-from "./tech-coordinators/jack.rkt"))
+  (define kate
+    (character-from "./tech-coordinators/kate.rkt"))
+  (define john
+    (character-from "./tech-coordinators/john.rkt")))

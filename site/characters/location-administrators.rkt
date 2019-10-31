@@ -4,5 +4,5 @@
 
 (define/provide-list 
   location-administrators
-  (define lawrence          (character "Johnny Lawrence")) 
-  (define kimberly          (character "Kimberly")))
+  (define lawrence          (character-from "./location-administrators/lawrence.rkt"))
+  (define kimberly          (character-from "./location-administrators/kimberly.rkt")))

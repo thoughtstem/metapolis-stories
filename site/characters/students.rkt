@@ -5,4 +5,4 @@
 (define/provide-list 
   students
   (define aurelia-todd
-    (character "Aurelia Todd")))
+    (character-from "./students/aurelia-todd.rkt")))
