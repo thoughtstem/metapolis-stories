@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/place
 
-(define name "Josephs's House")
+(define name "Joseph's House")
 (define position josephs-house-position)
 
 @paras{

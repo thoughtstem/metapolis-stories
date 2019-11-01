@@ -1,11 +1,11 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "The Check-In")
+(define title         "Arriving on Day 1")
 (define place         places:lovelace-elementary)
 (define characters    (list characters:bruce))
 (define time          (unnamed-time 
                         (moment 2021 3 25 13 20)
-                        (moment 2021 3 25 14 00)))
+                        (moment 2021 3 25 13 45)))
 (define links   '( ; should this link to the next story in sequence?
                   ))
 
@@ -15,6 +15,7 @@
  Spring session for K-2nd graders. More importantly, it is Bruce's very first class ever!
  Bruce received an email a couple days ago with a bunch of information about what to do and
  expect at this location -- when and where to pick up equipment, where to park, etc.
+ (See @(link-to-story (story-from "../../first-day-email.rkt")))
 
  @heading{1:20pm -- 40 minutes until class start time}
  Bruce parks in the visitor spots of the school lot. He knows he is early, so takes an extra
