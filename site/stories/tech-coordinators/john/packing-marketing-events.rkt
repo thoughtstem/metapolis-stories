@@ -1,7 +1,10 @@
 #lang at-exp metapolis-stories/lang/story
 
 (define title         "John's Packing for Marketing Events")
-(define place         places:johns-house)
+(define place         ;(list
+                            places:johns-house
+                            ;places:dijkstra-elementary;)
+                            )
 (define characters    (list characters:john
                             characters:marina))
 (define time          (unnamed-time

@@ -3,5 +3,5 @@
 (define name "Tony")
 
 @paras{
-  Tony is the scretary at Pascal Elementary School.
+  Tony is the secretary at @(dynamic-link-to-place 'pascal-elementary)
 }
