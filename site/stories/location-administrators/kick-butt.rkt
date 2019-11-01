@@ -1,9 +1,11 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "An Awesome Dojo Becomes Awesomer")
+(define title         "A Struggling Dojo Turns Around")
 (define place         places:kick-butt-martial-arts)
 (define characters    (list characters:lawrence))
-(define time          times:new-years-day-2021)
+(define time          (unnamed-time
+                        (moment 2021 1 5 11 00)
+                        (moment 2021 1 5 4 00)))
 (define links   '())
 
 @paras{
