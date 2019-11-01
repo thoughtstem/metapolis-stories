@@ -4,5 +4,5 @@
 (define position jacks-house-position)
 
 @paras{
-This Jack's place.    
+ @p{Jack's place has an extra room that is used as an office space, this is where he will keep all the equipment.}
 }

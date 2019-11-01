@@ -4,8 +4,8 @@
 (define place         places:lovelace-elementary)
 (define characters    (list characters:bruce))
 (define time          (unnamed-time 
-                        (moment 2021 3 25 1 20)
-                        (moment 2021 3 25 2 00)))
+                        (moment 2021 3 25 13 20)
+                        (moment 2021 3 25 14 00)))
 (define links   '())
 
 @paras{
