@@ -8,3 +8,4 @@ compiled/
 *.swo
 *.html
 *.bak
+/out/

@@ -1,3 +1,3 @@
 #lang reprovide
-(prefix-in times: (glob-in "./times/*"))
+(prefix-in times: (glob-in "./times/*.rkt"))
 

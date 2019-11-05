@@ -3,5 +3,5 @@
 (define name "Kimberly")
 
 @paras{
-  Who is Kimberly anyway?  A woman of mystery...
+  Secretary at @(dynamic-link-to-place 'lovelace-elementary)
 }

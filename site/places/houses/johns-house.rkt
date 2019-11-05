@@ -3,7 +3,6 @@
 (define name "John's House")
 (define position johns-house-position)
 
-@div{
-@p{This is the house where John grew up.} 
-@p{It is boring, and it is gray.  But it is home.}
+@paras{
+ @p{John lives in a condo that has a side gate with easy access to his back door, inside he has a small room inside where he keeps all the equipment.}
 } 
