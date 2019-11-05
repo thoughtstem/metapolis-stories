@@ -4,7 +4,8 @@
            "./site/places.rkt"
            "./site/characters.rkt"
            "./site/times.rkt"
-           "./site/stories.rkt"))
+           "./site/stories.rkt")
+         site)
 
 (require stories
          (except-in website/bootstrap time)
@@ -14,8 +15,7 @@
          "./site/stories.rkt"
          (only-in gregor moment<? ~t))
 
-(module+ main
-  (time->link-content
+(time->link-content
     (lambda (t)
       (list
         (span
@@ -26,13 +26,16 @@
         (when (not (string=? "" (time-name t)))
           (span
             " (" (time-name t) ")")))))
-  (render
-    (stories->site 
-      #:places     (sort places:all #:key place-name string<?)
-      #:characters (sort characters:all #:key character-name string<?)
-      #:times      (sort times:all #:key time-start moment<?)
-      (sort stories:all #:key story-name string<?))
-    #:to "out")
+(define (site)
+  (stories->site 
+    #:places     (sort places:all #:key place-name string<?)
+    #:characters (sort characters:all #:key character-name string<?)
+    #:times      (sort times:all #:key time-start moment<?)
+    (sort stories:all #:key story-name string<?)))
+
+
+(module+ main
+  (render (site) #:to "out")
 
   (displayln "*******")
   (displayln "SUCCESS")

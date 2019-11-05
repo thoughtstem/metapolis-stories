@@ -5,5 +5,5 @@
 (define position metapolis-position)
 
 @paras{
-An enlightened utopia of a city.  In it's dark ages, it was normal.  Now it is meta.  
+An enlightened utopia of a city.  In its dark ages, it was normal.  Now it is meta.  
 }
