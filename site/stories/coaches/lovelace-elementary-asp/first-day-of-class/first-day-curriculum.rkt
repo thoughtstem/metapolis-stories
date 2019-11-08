@@ -1,5 +1,8 @@
 #lang at-exp metapolis-stories/lang/story
 
+; TO DO
+; combo/replace this story with "Story about Stories" 
+
 (require gregor (prefix-in story: stories))
 
 (define title         "First Day Curriculum")

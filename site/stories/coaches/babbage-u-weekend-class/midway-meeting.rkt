@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "Midway Meeting")
+(define title         "A MetaCoder Classroom")
 (define place         places:babbage-university)
 (define characters    (list characters:joseph))
 (define time          (unnamed-time 
@@ -9,34 +9,43 @@
 (define links   '())
 
 @paras{
-TBD
+
+       2nd stop in Chapter 1: Welcome quest
+
        
-@;{Might need to be split up into further stories?
+Outline:
 
-Important Points:
+Location intro -- longest running program/location
 
-Smoothly running class!
-Introduce FBL -- maybe link to another descriptive page?
-Show values of FBL in action
-metacognition
-Students leading
-translation
-Introduce STORY MODE -- maybe link to another descriptive page on WHY STORY
-Coach start with story mode
-Students engaged
-Introduce STORY->GAME TRANSITION -- maybe link to another page on techniques of this transition
-Introduce GAME MODE -- maybe link to another descriptive page
-Coach leading tactic
-Students leading tactic
-Kata challenge
-Kata earned! for some? all?
-2 different groups working at different speeds/towards different goals
-Introduce GAME->STORY TRANSITION -- maybe link to other page with techniques
-possibly other cycles
-time warnings
-include tech bug
-Include student guiding back on track, positive attitude, using CoA
-Market}
+Coach intro -- who, how long a coach, other details
+
+Leads into what level of Class Map construction coach is on (choosing from preset maps)
+
+[Use what as an example map? Class Launch? using elsewhere in this quest...]
+[make sure to show an example map visually]
+
+Coach is great an guiding students through the 2 mode of the Class Map model...
+
+Intro Story mode
+ - one point of focus (coach, student)
+ - can look a lot of different ways
+ - lower risk/challenge for most students
+ - lower activity level
+
+ Intro Game Mode
+ - goal-oriented
+ - different students/srudent groups can have different goals
+ - multiple points of focus
+ - usually where coding takes place
+ - can be higher challenge/risk for students
+
+ Similarities in modes?
+ - coach always engaged, managing space
+ - students always engaged
+ - learning
+
+Science behind these two modes... 
+
 
 
 }
