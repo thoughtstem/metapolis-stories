@@ -8,7 +8,8 @@
                         (moment 2021 5 14)))
 (define links   (list 
                   (story-from "lovelace-elementary-asp/first-day-of-class.rkt")
-                  (story-from "lovelace-elementary-asp/midway-meeting.rkt")))
+                  (story-from "lovelace-elementary-asp/midway-meeting.rkt")
+                  (story-from "lovelace-elementary-asp/ch-1-stories.rkt")))
 
 @paras{
  Bruce is the Coach for this session.

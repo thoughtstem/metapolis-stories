@@ -9,7 +9,8 @@
 (define links   (list 
                   (story-from "turing-rec-center-weekly-class/community-center-first-day.rkt")
                   (story-from "turing-rec-center-weekly-class/community-center-midway-meeting.rkt")
-                  (story-from "turing-rec-center-weekly-class/beginners-game-jam.rkt")))
+                  (story-from "turing-rec-center-weekly-class/beginners-game-jam.rkt")
+                  (story-from "turing-rec-center-weekly-class/game-mode-introduction.rkt")))
 
 @paras{
  Ruby starts a brand new program at this rec center.
