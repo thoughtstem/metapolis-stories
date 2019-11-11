@@ -4,7 +4,7 @@
 
 (require gregor (prefix-in story: stories))
 
-(define title         "Stories: In Summary")
+(define title         "Hellow World Kata Intro")
 (define place         places:lovelace-elementary)
 (define characters    (list  characters:bruce
                             characters:aurelia-todd
@@ -20,14 +20,12 @@
 (define links   '())
 
 @paras{
-Part of 3rd stop in the Chapter 1 quest
+Stop 1c in the STORIES quest
 
 Outline:
 
-The science of stories, value in learning, history, etc etc
+... Not sure
 
-what makes story mode (doesn't always mean story book, or even coach telling the story)
-
-Maybe hit again how returners can find value in story they have heard before
+some sort of short-n-sweet intro story to any hello world kata, using disintergrating code.
 
 }

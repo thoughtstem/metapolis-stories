@@ -20,7 +20,7 @@
 (define links   '())
 
 @paras{
-Part of 3rd stop in the Chapter 1 quest
+Stop 1a in STORIES quest
 
 Outline:
 

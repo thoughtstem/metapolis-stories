@@ -11,7 +11,7 @@
 
 @paras{
 
-       Part of 4th stop on Chapter 1 quest
+Stop 1a in GAMES quest
 
 Outline:
 

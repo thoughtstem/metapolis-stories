@@ -20,23 +20,31 @@
 
 (define links   (list (story-from "ch-1-stories/introduction-story.rkt")
                       (story-from "ch-1-stories/code-of-awesomeness-stories.rkt")
-                      (story-from "ch-1-stories/reflection.rkt")
-                      (story-from "ch-1-stories/story-sum-up.rkt")))
+                      (story-from "ch-1-stories/hello-world-intro.rkt")
+                      (story-from "ch-1-stories/reflection.rkt")))
 
 @paras{
-3rd stop in the Chapter 1 quest
+1st stop in STORIES quest (previously part of WELCOME)
 
 Outline:
  
 Lovelace Introduction -- how long has Meta Coders been here, what we do here
 
-Story Intro -- here we will learn about the important role stories play in the metacoders classroom...
-
 Coach Intro -- Bruce, first class ever, new, nervous?
 
 Introduce students? who has been here before? how they feel about class?
 
+Map -- using Class Launch map
 
+
+See stories in action:
+
+@(link-to-story (first links))
+@(link-to-story (second links))
+@(link-to-story (third links))
+@(link-to-story (forth links))
+
+Finish with breif summary, lead in to next stop.
 
 
 
