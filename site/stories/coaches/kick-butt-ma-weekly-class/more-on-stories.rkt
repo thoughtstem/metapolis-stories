@@ -6,8 +6,9 @@
 (define time          (unnamed-time ;to fix
                         (moment 2021 3 25)
                         (moment 2021 5 14)))
-(define links   '((story-from "story-example-1.rkt")
-                  (story-from "story-example-2.rkt")))
+(define links
+  (list (story-from "story-example-1.rkt")
+        (story-from "story-example-2.rkt")))
 
 @paras{
 Stop 2 in STORIES Quest

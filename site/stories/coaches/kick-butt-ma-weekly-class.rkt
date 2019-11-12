@@ -7,7 +7,7 @@
                         (moment 2021 3 25)
                         (moment 2021 5 14)))
 (define links   (list 
-                  (story-from "kick-butt-martial-arts/more-on-stories.rkt")))
+                  (story-from "kick-butt-ma-weekly-class/more-on-stories.rkt")))
 
 @paras{
 
