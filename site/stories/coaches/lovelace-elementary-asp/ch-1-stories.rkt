@@ -42,7 +42,7 @@ See stories in action:
 @(link-to-story (first links))
 @(link-to-story (second links))
 @(link-to-story (third links))
-@(link-to-story (forth links))
+@(link-to-story (fourth links))
 
 Finish with breif summary, lead in to next stop.
 
