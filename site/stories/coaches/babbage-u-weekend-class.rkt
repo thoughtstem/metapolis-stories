@@ -11,5 +11,5 @@
                   (story-from "babbage-u-weekend-class/game-jam.rkt")))
 
 @paras{
-@;decriptive text here 
+  This is the story of a class that meets weekly at Babbage University
 }

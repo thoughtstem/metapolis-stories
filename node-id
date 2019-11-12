@@ -1,0 +1,9 @@
+./lib/main.rkt:           (string->symbol (~a "characters:" id))))
+./lib/main.rkt:           (string->symbol (~a "places:" id))))
+./lib/main.rkt:           (string->symbol (~a "stories:" id))))
+./site/times/util.rkt:  (read (open-input-string (~a "(" (string-replace #:all? #t s #px"\\s+" " ") ")"))) ) 
+./site/times/util.rkt:    (parse-calendar-string (string-join ss)))
+./site/times/util.rkt:  (define year (string->number (~a (second data))))
+./site/times/util.rkt:                 (string-suffix? (~a d) (~a s)))
+./site/times/util.rkt:    (string->number
+./site/times/util.rkt:      (string-replace day-string (~a s) ""))) 

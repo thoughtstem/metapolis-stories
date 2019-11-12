@@ -5,4 +5,6 @@
 
 @paras{
  Where newcomers to our city are introduced to the Wonders of Meta Living.
+
+ @b{Hint:} Most quests will start here...
 }
