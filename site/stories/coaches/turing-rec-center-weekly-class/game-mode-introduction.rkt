@@ -10,20 +10,26 @@
 (define links   (list 
                   (story-from "game-mode-introduction/name-game.rkt")
                   (story-from "game-mode-introduction/coa-mottos.rkt")
-                  (story-from "game-mode-introduction/code-game.rkt")
-                  (story-from "game-mode-introduction/game-sum-up.rkt")))
+                  (story-from "game-mode-introduction/code-game.rkt")))
 
 @paras{
-4th stop on Chapter 1: Welcome quest
+1st stop in GAME quest
 
 Outline:
 
 Location Intro -- newest location? serving a new community?
 
-Coach Intro -- how long been working, what level of Map creation
+Reintro Ruby?
 
 Definition of Game: Fun with an Objective?
 
 See Day 1 games in action....
+
+@(link-to-story (first links))
+@(link-to-story (second links))
+@(link-to-story (third links))
+
+summary?
+
        
 }

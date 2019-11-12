@@ -21,8 +21,7 @@ Coach intro -- who, how long a coach, other details
 
 Leads into what level of Class Map construction coach is on (choosing from preset maps)
 
-[Use what as an example map? Class Launch? using elsewhere in this quest...]
-[make sure to show an example map visually]
+Use Class Launch example map
 
 Coach is great an guiding students through the 2 mode of the Class Map model...
 

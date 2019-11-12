@@ -10,8 +10,11 @@
                   (story-from "babbage-u-summer-camp/first-monday-morning.rkt")
                   (story-from "babbage-u-summer-camp/first-wednesday-afternoon.rkt")
                   (story-from "babbage-u-summer-camp/mid-summer-monday-morning.rkt")
-                  (story-from "babbage-u-summer-camp/mid-summer-friday-afternoon.rkt")))
+                  (story-from "babbage-u-summer-camp/mid-summer-friday-afternoon.rkt")
+                  (story-from "babbage-u-summer-camp/more-on-games.rkt")))
 
 @paras{
-The second summer of camps at Babbage Unversity. 
+The second summer of camps at Babbage Unversity.
+
+
 }
