@@ -3,5 +3,5 @@
 (define name "Bruce")
 
 @paras{
-  Bruce has just begun training to be a MetaCoders Coach.
+  Yu has just begun training as a MetaCoders coach.
 }
