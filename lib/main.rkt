@@ -10,6 +10,7 @@
 
          (all-from-out metapolis-stories/site/images)
          character-bio-img
+         location-img
          )
 
 (require stories
@@ -58,4 +59,11 @@
     style: (properties 
              border-radius: 50
              width: 200)
+    i))
+
+(define (location-img i)
+  (write-img
+    style: (properties 
+             border-radius: 50
+             width: 400)
     i))

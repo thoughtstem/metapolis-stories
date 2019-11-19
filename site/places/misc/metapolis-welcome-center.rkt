@@ -3,8 +3,12 @@
 (define name "Metapolis Welcome Center")
 (define position welcome-center-position)
 
+(require "../../images/main.rkt")
+
 @paras{
- Where newcomers to our city are introduced to the Wonders of Meta Living.
+ Where all vistors to Metapolis are encouraged to begin their journey.
 
  @b{Hint:} Most quests will start here...
+
+ @location-img[welcome-center]
 }
