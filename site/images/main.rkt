@@ -1,7 +1,8 @@
 #lang racket
 
 (provide lawrence-face
-         welcome-center)
+         welcome-center
+         babbage-university)
 
 (require 2htdp/image
          racket/runtime-path)
@@ -14,3 +15,6 @@
 
 (define welcome-center
   (bitmap/file (build-path places "welcome-center.jpg")))
+
+(define babbage-university
+  (bitmap/file (build-path places "babbage-university.jpg")))

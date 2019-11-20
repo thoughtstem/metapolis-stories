@@ -4,5 +4,7 @@
 (define position babbage-university-position)
 
 @paras{
-  Named for the inventor of the computer.  The first programmer.  
+  Metapolis' famed university. Named for the inventor of the computer, Charles Babbage: the first programmer.
+
+  @location-img[babbage-university]
 }

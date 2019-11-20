@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "Game Jam!")
+(define title         "Spring Session: Game Jam!")
 (define place         places:babbage-university)
 (define characters    (list characters:joseph))
 (define time          (unnamed-time 
@@ -9,7 +9,8 @@
 (define links   '())
 
 @paras{
-TBD
+
+       Today is the final class of MetaCoders' 3rd-6th Spring Weekend Class, and GAME JAM!! How exciting!
        
 @;{
  This is a Best Possible Jam
