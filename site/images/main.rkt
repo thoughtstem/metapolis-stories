@@ -2,7 +2,8 @@
 
 (provide lawrence-face
          welcome-center
-         babbage-university)
+         babbage-university
+         hopper-library)
 
 (require 2htdp/image
          racket/runtime-path)
@@ -18,3 +19,7 @@
 
 (define babbage-university
   (bitmap/file (build-path places "babbage-university.jpg")))
+
+(define hopper-library
+  (bitmap/file (build-path places "hopper-library.jpg")))
+

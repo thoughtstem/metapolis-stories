@@ -4,5 +4,7 @@
 (define position hopper-library-position)
 
 @paras{
- Named after Grace Hopper, who led the team of computer scientists who created the first computer language compiler.
+ Named after Grace Hopper, who created the first computer language compiler, which led to the COBOL programming language.
+
+ @location-img[hopper-library]
 }

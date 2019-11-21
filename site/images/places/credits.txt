@@ -5,3 +5,6 @@ welcome-center.jpg -- Photo by Washington Oliveira 🇧🇷 on Unsplash
 
 babbage-university.jpg -- Photo by Ameer Basheer on Unsplash
                           https://unsplash.com/photos/Jn9dn8nN4C0
+
+hopper-library.jpg -- Photo by Francesco Ungaro on Unsplash
+                      https://unsplash.com/photos/sa-4vtGmIzQ
