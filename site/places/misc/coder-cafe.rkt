@@ -4,5 +4,7 @@
 (define position coder-cafe-position)
 
 @paras{
-  A quaint coffee shop frequented by coders of all sorts.   
+  A quaint coffee shop frequented by coders of all sorts.
+
+  @location-img[coder-cafe]
 }
