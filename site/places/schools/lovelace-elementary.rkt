@@ -4,5 +4,5 @@
 (define position lovelace-elementary-position)
 
 @paras{
-  Named for the one of the world's first programmers, whose life was tragically short, but whose legacy shall live forever.
+  Named for Ada Lovelace, one of the world's first programmers. Her life was tragically short, but her legacy shall live forever.
 }

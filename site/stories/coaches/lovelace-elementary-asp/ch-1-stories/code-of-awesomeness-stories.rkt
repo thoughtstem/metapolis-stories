@@ -9,7 +9,7 @@
                             characters:aurelia-todd
                             characters:efan-farrell
                             characters:colin-pearson
-                            characters:yu-huang
+                            characters:bai-zhou
                             characters:ava-cortez
                              ))
 (define time          (unnamed-time 

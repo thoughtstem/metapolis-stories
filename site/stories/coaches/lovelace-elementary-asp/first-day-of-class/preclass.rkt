@@ -9,7 +9,7 @@
                             characters:efan-farrell
                             characters:benjamin-gallagher
                             characters:colin-pearson
-                            characters:yu-huang
+                            characters:bai-zhou
                             characters:ava-cortez))
 (define time          (unnamed-time 
                         (moment 2021 3 25 13 45)
@@ -51,13 +51,13 @@ Bruce, Efan and Aurelia arrive back at room 19 just as the school bell rings. Th
 
 Bruce sends a quick slack update on attendance, noting that Ben's teacher told him that Ben was
  absent at school today. He also checks his class roster for the name of the 2 students he is
- waiting on -- Yu Huang and Ava Cortez. He asks the other students if they know Yu or Ava, and
+ waiting on -- Bai Zhou and Ava Cortez. He asks the other students if they know Bai or Ava, and
  if they saw her in school today; Colin answers that Ava is in his class and she was in school
  today. Bruce updates slack with this info.
 
-Bruce pokes his head out the door to see if there are any students that might be Ava or Yu
- nearby. He catches Yu as he is walking up to the class. He gets him settled with the rest of
- the class, and updates slack that Yu is here!
+Bruce pokes his head out the door to see if there are any students that might be Ava or Bai
+ nearby. He catches Bai as he is walking up to the class. He gets him settled with the rest of
+ the class, and updates slack that Bai is here!
 
 Bruce continues setting up the last of the computers. He also decides where in the room would
  be best to put his students and does some minor adjusting to fit all 5 students at one table

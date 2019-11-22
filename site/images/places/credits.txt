@@ -8,3 +8,6 @@ babbage-university.jpg -- Photo by Ameer Basheer on Unsplash
 
 hopper-library.jpg -- Photo by Francesco Ungaro on Unsplash
                       https://unsplash.com/photos/sa-4vtGmIzQ
+
+coder-cafe.jpg -- Photo by Ali Yahya on Unsplash
+                  https://unsplash.com/photos/oAjlm54M-h4
