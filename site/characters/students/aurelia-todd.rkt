@@ -5,9 +5,8 @@
 @paras{
   Daughter of @(dynamic-link-to-character 'molly-todd)
 
-  Attends Lovelace Elementary and is a Kindergartener (as of the 2020/21 school year).
+  Aurelia is a 3rd grader at Lovelace Elementary.
 
-  She enrolled in the Winter 2021 ASP for the first time, and loved it so much, she is back
-  for Spring 2021 session!
+  She enrolled in the Winter Lovelace Elementary ASP for the first time, and loved it so much, she is back for the Spring session!
 
 }

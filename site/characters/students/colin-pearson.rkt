@@ -3,7 +3,5 @@
 (define name "Colin Pearson")
 
 @paras{
-  Colin is a 1st grader (as of the 2020/21 school year) at Lovelace Elementary.
-
-  He is a part of the Spring 2021 MetaCoders ASP.
+  Colin is a 4th grader at Lovelace Elementary. He is a part of the Spring Session of MetaCoders ASP, which is his third session of Metacoders. Colin first joined the class in the Fall.
 }

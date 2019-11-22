@@ -3,5 +3,5 @@
 (define name "Benjamin Gallagher")
 
 @paras{
-  Benjamin is a Kindergartener (as of the 2020/21 school year) at Lovelace Elementary. 
+  Benjamin is a 5th grade student at Lovelace Elementary, enrolled in the Spring Session of Metacoders ASP there. 
 }
