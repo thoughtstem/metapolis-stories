@@ -11,7 +11,7 @@
                             characters:aurelia-todd
                             characters:efan-farrell
                             characters:colin-pearson
-                            characters:yu-huang
+                            characters:bai-zhou
                             characters:ava-cortez))
 (define time          (unnamed-time 
                         (moment 2021 3 25 2) 
