@@ -4,7 +4,8 @@
          welcome-center
          babbage-university
          hopper-library
-         coder-cafe)
+         coder-cafe
+         lovelace-elementary)
 
 (require 2htdp/image
          racket/runtime-path)
@@ -26,4 +27,7 @@
 
 (define coder-cafe
   (bitmap/file (build-path places "coder-cafe.jpg")))
+
+(define lovelace-elementary
+  (bitmap/file (build-path places "lovelace-elementary.jpg")))
 

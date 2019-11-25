@@ -11,3 +11,6 @@ hopper-library.jpg -- Photo by Francesco Ungaro on Unsplash
 
 coder-cafe.jpg -- Photo by Ali Yahya on Unsplash
                   https://unsplash.com/photos/oAjlm54M-h4
+
+lovelace-elementary.jpg -- Photo by Avi Waxman on Unsplash
+                           https://unsplash.com/photos/yb_-j9CXDeQ

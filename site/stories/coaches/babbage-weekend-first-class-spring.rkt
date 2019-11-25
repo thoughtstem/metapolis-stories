@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "First Class of Spring Session")
+(define title         "Spring Session: First Class")
 (define place         places:babbage-university)
 (define characters    (list characters:joseph))
 (define time          (unnamed-time 

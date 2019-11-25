@@ -1,6 +1,6 @@
 #lang at-exp metapolis-stories/lang/story
 
-(define title         "First Class of Spring Session")
+(define title         "Spring Session: First Class")
 (define place         places:hopper-library)
 (define characters    (list characters:ruby
                             characters:mateo-chavez))
