@@ -5,4 +5,6 @@
 
 @paras{
   Named after Alan Turing -- considered the father of theoretical computer science and A.I.
+
+  @location-img[turing-rec-center]
 }

@@ -5,7 +5,8 @@
          babbage-university
          hopper-library
          coder-cafe
-         lovelace-elementary)
+         lovelace-elementary
+         turing-rec-center)
 
 (require 2htdp/image
          racket/runtime-path)
@@ -30,4 +31,7 @@
 
 (define lovelace-elementary
   (bitmap/file (build-path places "lovelace-elementary.jpg")))
+
+(define turing-rec-center
+  (bitmap/file (build-path places "turing-rec-center.jpg")))
 

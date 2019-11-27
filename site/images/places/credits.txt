@@ -14,3 +14,6 @@ coder-cafe.jpg -- Photo by Ali Yahya on Unsplash
 
 lovelace-elementary.jpg -- Photo by Avi Waxman on Unsplash
                            https://unsplash.com/photos/yb_-j9CXDeQ
+
+turing-rec-center.jpg -- Photo by Ricardo Gomez Angel on Unsplash
+                         https://unsplash.com/photos/opFPVxMRpP8
