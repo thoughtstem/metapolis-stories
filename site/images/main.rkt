@@ -6,7 +6,8 @@
          hopper-library
          coder-cafe
          lovelace-elementary
-         turing-rec-center)
+         turing-rec-center
+         bruces-house)
 
 (require 2htdp/image
          racket/runtime-path)
@@ -35,3 +36,5 @@
 (define turing-rec-center
   (bitmap/file (build-path places "turing-rec-center.jpg")))
 
+(define bruces-house
+  (bitmap/file (build-path places "bruces-house.jpg")))

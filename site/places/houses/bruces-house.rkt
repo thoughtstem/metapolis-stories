@@ -4,5 +4,7 @@
 (define position bruces-house-position)
 
 @paras{
- @p{Bruce's house overlooks the beautiful Metasippi river.} 
+ Bruce is MetaCoder's newest Coding Coach in Metapolis; he was hired at the beginning of March. He lives here with his family.
+ 
+ @location-img[bruces-house]
 } 

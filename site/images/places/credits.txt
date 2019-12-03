@@ -17,3 +17,6 @@ lovelace-elementary.jpg -- Photo by Avi Waxman on Unsplash
 
 turing-rec-center.jpg -- Photo by Ricardo Gomez Angel on Unsplash
                          https://unsplash.com/photos/opFPVxMRpP8
+
+bruces-house.jpg -- Photo by Rowan Heuvel on Unsplash
+                    https://unsplash.com/photos/bjej8BY1JYQ
