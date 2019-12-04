@@ -4,5 +4,7 @@
 (define position tech-squared-position)
 
 @paras{
- A big business that does big, big things. 
+ A big business that does big, big things.
+
+ @location-img[techsquared]
 }

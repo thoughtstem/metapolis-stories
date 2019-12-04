@@ -20,3 +20,6 @@ turing-rec-center.jpg -- Photo by Ricardo Gomez Angel on Unsplash
 
 bruces-house.jpg -- Photo by Rowan Heuvel on Unsplash
                     https://unsplash.com/photos/bjej8BY1JYQ
+
+techsquared.jpg -- Photo by Ciel Cheng on Unsplash
+                   https://unsplash.com/photos/YEz0tW3p1yU

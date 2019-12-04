@@ -7,7 +7,8 @@
          coder-cafe
          lovelace-elementary
          turing-rec-center
-         bruces-house)
+         bruces-house
+         techsquared)
 
 (require 2htdp/image
          racket/runtime-path)
@@ -38,3 +39,6 @@
 
 (define bruces-house
   (bitmap/file (build-path places "bruces-house.jpg")))
+
+(define techsquared
+  (bitmap/file (build-path places "techsquared.jpg")))
