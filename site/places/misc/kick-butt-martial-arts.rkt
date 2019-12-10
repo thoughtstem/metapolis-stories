@@ -4,5 +4,7 @@
 (define position kick-butt-martial-arts-position)
 
 @paras{
-  Owned by @(dynamic-link-to-character 'lawrence)
+  A local business owned by Johnny Lawrence.
+
+  @location-img[kick-butt]
 }

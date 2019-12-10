@@ -23,3 +23,6 @@ bruces-house.jpg -- Photo by Rowan Heuvel on Unsplash
 
 techsquared.jpg -- Photo by Ciel Cheng on Unsplash
                    https://unsplash.com/photos/YEz0tW3p1yU
+
+kick-butt.jpg -- Photo by PixaSquare from Pexels
+                 https://www.pexels.com/photo/white-2-storey-house-near-trees-1115804/

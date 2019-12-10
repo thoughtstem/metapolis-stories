@@ -8,7 +8,9 @@
          lovelace-elementary
          turing-rec-center
          bruces-house
-         techsquared)
+         techsquared
+         kick-butt
+         )
 
 (require 2htdp/image
          racket/runtime-path)
@@ -42,3 +44,6 @@
 
 (define techsquared
   (bitmap/file (build-path places "techsquared.jpg")))
+
+(define kick-butt
+  (bitmap/file (build-path places "kick-butt.jpg")))
