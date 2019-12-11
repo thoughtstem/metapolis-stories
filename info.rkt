@@ -1,6 +1,7 @@
 #lang info
 (define collection "metapolis-stories")
 (define deps '("base"
+               "reprovide-lang"
                "https://github.com/thoughtstem/website.git"
                "https://github.com/thoughtstem/stories.git"
                "gregor"))
